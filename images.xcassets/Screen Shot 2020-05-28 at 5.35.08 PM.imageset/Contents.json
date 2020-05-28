@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Screen Shot 2020-05-28 at 5.35.08 PM.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
@@ -9,7 +10,6 @@
       "scale" : "2x"
     },
     {
-      "filename" : "грузовик.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
